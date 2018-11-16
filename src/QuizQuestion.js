@@ -5,7 +5,7 @@ import React, {
 
 // let QuizQuestion;
 
-class QuizComponent extends Component {
+class QuizQuestion extends Component {
 
     render() {
         return (
@@ -24,4 +24,4 @@ class QuizComponent extends Component {
 
 }
 
-export default QuizComponent
+export default QuizQuestion
